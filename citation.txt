@@ -1,0 +1,6 @@
+@inproceedings{REPO-185,
+    author = "Liu, Weijie and Zhou, Peng and Zhao, Zhe and Wang, Zhiruo and Ju, Qi and Deng, Haotang and Wang, Ping",
+    booktitle = "AAAI Conference on Artificial Intelligence",
+    title = "{K-BERT: Enabling Language Representation with Knowledge Graph}",
+    year = "2019"
+}
